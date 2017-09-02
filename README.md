@@ -1,12 +1,16 @@
 ## Welcome to Apache Tomcat!
+欢迎来到 Apatch tomcat！
 
 ### What Is It?
+他是什么呢，接着往下读哦 
 
 The Apache Tomcat® software is an open source implementation of the Java
 Servlet, JavaServer Pages, Java Expression Language and Java WebSocket
 technologies. The Java Servlet, JavaServer Pages, Java Expression Language and
 Java WebSocket specifications are developed under the
 [Java Community Process](http://jcp.org/en/introduction/overview).
+
+Apatch Tomcat 这款软件是对Java Servlet，JavaServer Pages(就是我们常说的JSP)，Java Expression Language(Java-EL)还有Java WebSocket等技术的一个开源实现。关于以上所说的技术的说明可以参看[Java Community Process](http://jcp.org/en/introduction/overview).
 
 The Apache Tomcat software is developed in an open and participatory
 environment and released under the
@@ -16,6 +20,8 @@ around the world. We invite you to participate in this open development
 project. To learn more about getting involved,
 [click here](http://tomcat.apache.org/getinvolved.html) or keep reading.
 
+Apatch Tomcat 这款软件在一个开源和崇尚共享的环境下发展，而且遵循[Apache License version 2](http://www.apache.org/licenses/).协议。Apatch Tomcat这个项目是由来自全世界各地的最好的工程师通力合作开发的。我们邀请您和我们一起参与这个伟大的开源项目。预知更多详情或者获得参与途径，[点击这里](http://tomcat.apache.org/getinvolved.html) 或者先继续往下读诶.
+ 
 Apache Tomcat software powers numerous large-scale, mission-critical web
 applications across a diverse range of industries and organizations. Some of
 these users and their stories are listed on the
