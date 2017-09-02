@@ -21,15 +21,19 @@ project. To learn more about getting involved,
 [click here](http://tomcat.apache.org/getinvolved.html) or keep reading.
 
 Apatch Tomcat 这款软件在一个开源和崇尚共享的环境下发展，而且遵循[Apache License version 2](http://www.apache.org/licenses/).协议。Apatch Tomcat这个项目是由来自全世界各地的最好的工程师通力合作开发的。我们邀请您和我们一起参与这个伟大的开源项目。预知更多详情或者获得参与途径，[点击这里](http://tomcat.apache.org/getinvolved.html) 或者先继续往下读诶.
- 
+  
 Apache Tomcat software powers numerous large-scale, mission-critical web
 applications across a diverse range of industries and organizations. Some of
 these users and their stories are listed on the
 [PoweredBy wiki page](http://wiki.apache.org/tomcat/PoweredBy).
-
+ 
+Apatch Tomcat驱动着不同的行业和组织中许多大规模，执行重要任务的web项目，以下为例。 [PoweredBy wiki page](http://wiki.apache.org/tomcat/PoweredBy).
+ 
 Apache Tomcat, Tomcat, Apache, the Apache feather, and the Apache Tomcat
 project logo are trademarks of the Apache Software Foundation.
-
+ 
+APatch Tomcat,Tomcat,Apatch,Apatch的羽毛标志,以及Apatch Tomcat 项目的logo都是Apache软件基金会的商标。
+ 
 ### The Latest Version
 
 The current latest version in this branch (trunk) can be found on the [Tomcat 9.0](https://tomcat.apache.org/download-90.cgi) page.
